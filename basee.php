@@ -142,7 +142,7 @@ slider5.oninput = function() {
   <div class="transition"></div>
   
  </div>
-<script>
+<script> // سكربت الشات بوت
   window.watsonAssistantChatOptions = {
       integrationID: "3f10cc94-8744-4033-a811-7b932e5b5f1b", // The ID of this integration.
       region: "eu-de", // The region your integration is hosted in.
